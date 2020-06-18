@@ -1,0 +1,54 @@
+# Introduction
+This section describes the use of the application by detailing the abstract.
+
+About the Project:
+
+"E-MARKETPLACE NITK" project is intended to serve as a platform for the students of 
+NITK in buying/selling usable products from other students of NITK. Upon opening the appli-
+cation, a student has the choice of performing 4 operations: buying or selling products, viewing
+notifications, registering. 
+If the student chooses to buy a product, the student is asked to
+choose the category of the item to be bought. If the item is available, it can be bought from
+the seller and the item will be removed from the list of items for sale. If the student chooses
+to sell a product, he/she can add the product to the list of products for sale, with the product
+description in detail.
+
+Buying a product:
+1. For buying a product one needs to first enter his/her registered roll no. in the format of
+xxx(CH)xxx eg. 191CH036 or 191ME222.
+2. Then, the registered password is entered. (The password can be upto 10 characters)
+3. Now, the type of product to be bought can be chosen or he/she can also return to the
+main menu.
+4. If he/she wants any of the product, he/she can go to it's details by typing the respective
+number for the product.
+5. The user must press `y' if he/she wants to buy it. Otherwise the user must press `n'. A
+user must remember to press `y' if he/she is absolutely sure that the amount can be paid.
+6. A notification will be sent to the owner of the product.
+
+Selling a product:
+1. For selling a product one needs to first enter his/her registered roll number. (The roll
+number must be entered as mentioned earlier).
+2. Then, the registered password is entered. (The password can be upto 10 characters)
+3. The seller must choose the product category.
+4. The seller must enter the product name, usage (new/used) and price quoted.
+5. The seller must enter product description and then the product is put for sale.
+6. The seller may sell more products till the maximum limit of 20 products is attained.
+
+Purchase requests:
+In this section, after typing the roll no. and password (The roll number must be entered as
+mentioned earlier), the user will be able to see whether he/she got any request from another
+user for purchase of his/her product with the details of the other user, for easy contact with
+the person.
+
+For registering:
+1. After going to register option, the user enters his/her name first.
+2. The user has to enter roll number and password. The user must remember that the
+password can be upto 10 characters. The roll number must be entered as mentioned
+earlier.
+3. The user must conrm the password.
+4. The user's account is now created.
+
+Help menu:
+For making this application user-friendly and easily understandable, we have also provided a
+HELP MENU section within the application which a user can visit if he/she has any query or
+faces any trouble or issues in the application while using it.
